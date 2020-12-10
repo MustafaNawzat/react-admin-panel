@@ -1,0 +1,137 @@
+{
+  "stores": [
+    {
+      "name": "Adidas",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTii3uAhFweLt50koqGDxM6wE3zAs7-PXeh5w&usqp=CAU",
+      "id": 1
+    },
+    {
+      "name": "Crocs",
+      "logo": "https://brandongaille.com/wp-content/uploads/2013/06/Crocs-Company-Logo-Image.jpg",
+      "id": 2
+    },
+    {
+      "name": "Nike",
+      "logo": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143428/129.png",
+      "id": 3
+    },
+    {
+      "name": "Zara",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/05/Zara-Logo.png",
+      "id": 4
+    },
+    {
+      "name": "Chanel",
+      "logo": "https://i.pinimg.com/originals/7f/fa/b5/7ffab5918fae4daf88c5eddd2ff944ea.jpg",
+      "id": 5
+    },
+    {
+      "name": "Boss",
+      "logo": "https://www.bvoptometry.com/wp-content/uploads/2018/12/hugoboss-web-logo.png",
+      "id": 6
+    },
+    {
+      "name": "Versace",
+      "logo": "https://cdn.iconscout.com/icon/free/png-512/versace-2-202712.png",
+      "id": 7
+    },
+    {
+      "name": "Polo",
+      "logo": "https://i.pinimg.com/originals/5a/b3/a4/5ab3a47bb0888dfdd2d6fee3d765e0d2.png",
+      "id": 8
+    },
+    {
+      "name": "Red tag",
+      "logo": "https://redtag-stores.com/en/wp-content/uploads/Redtag.png",
+      "id": 1607430095448
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "image": "https://via.placeholder.com/150?text=category",
+      "name": "men",
+      "store_id": 1
+    },
+    {
+      "id": 2,
+      "image": "https://via.placeholder.com/150?text=category",
+      "name": "women",
+      "store_id": 1
+    },
+    {
+      "id": 3,
+      "image": "https://via.placeholder.com/150?text=category",
+      "name": "boys",
+      "store_id": 2
+    },
+    {
+      "name": "RedTag Men",
+      "image": "https://via.placeholder.com/150?text=RedTagMen",
+      "store_id": 1607430095448,
+      "id": 1607520242910
+    },
+    {
+      "name": "Polo men",
+      "image": "https://via.placeholder.com/150?text=PoloMen",
+      "store_id": 8,
+      "id": 1607521802874
+    },
+    {
+      "name": "Crocs Men",
+      "image": "https://via.placeholder.com/150?text=CrocsMen",
+      "store_id": 2,
+      "id": 1607526149614
+    },
+    {
+      "name": "Crocs Women",
+      "image": "https://via.placeholder.com/150?text=Women",
+      "store_id": 2,
+      "id": 1607526310155
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "https://via.placeholder.com/150?text=product",
+      "name": "T-shirt",
+      "price": 35000,
+      "category_id": 1607520242910
+    },
+    {
+      "id": 2,
+      "image": "https://via.placeholder.com/150?text=product",
+      "name": "Shoes",
+      "price": 45000,
+      "category_id": 2
+    },
+    {
+      "id": 3,
+      "image": "https://via.placeholder.com/150?text=product",
+      "name": "Sweater",
+      "price": 5000,
+      "category_id": 3
+    },
+    {
+      "id": 3,
+      "image": "https://via.placeholder.com/150?text=product",
+      "name": "Sweater 2",
+      "price": 33000,
+      "category_id": 3
+    },
+    {
+      "name": "Jense",
+      "image": "https://via.placeholder.com/150?text=menProduct",
+      "price": "66000",
+      "category_id": 1,
+      "id": 1607521523068
+    },
+    {
+      "name": "Polo men Product",
+      "image": "https://via.placeholder.com/150?text=PolomenProduct",
+      "price": 55000,
+      "category_id": 1607521802874,
+      "id": 1607521930543
+    }
+  ]
+}
